@@ -94,6 +94,8 @@ We also plotted graphs between the various categories based on varied factors, p
 <img width="1119" alt="Screenshot 2023-06-08 at 11 45 55 PM" src="https://github.com/shailw/credit_risk/assets/96182727/34a3c15d-9f53-462e-b4f9-9e19f08b5ffb">
 <img width="1091" alt="Screenshot 2023-06-08 at 11 46 51 PM" src="https://github.com/shailw/credit_risk/assets/96182727/39282621-9a69-491e-a216-c954e91da2f5">
 ![image](https://github.com/shailw/credit_risk/assets/96182727/959157ff-b98b-4856-93ba-968116efa0fd)
+<img width="1128" alt="Screenshot 2023-06-08 at 11 46 17 PM" src="https://github.com/shailw/credit_risk/assets/96182727/16bda9d7-5bb5-4958-83fd-2aa966835e2a">
+
 
 # Data Preprocessing
 In Data Preprocessing we used OneHotEncoder for categorical columns like Checking_status, purpose, saving_status to replace it so that can be further used for machine learning algorithm and create a updated dataset.
